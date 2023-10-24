@@ -1,3 +1,8 @@
+# WARNING FOR TIDAL FORCE
+
+So, when i installed this. I did make some changes on the PC before i accidentally locked myself out (lol) so make sure to check that original pc out sometime later, maybe put ssh on it.
+
+
 # Kiosk installer for Debian based Linux distros
 Small installer script to setup a minimal kiosk with Chromium for Debian based Linux distros. This installer is heavily based on the excellent [instructions by Will Haley](http://willhaley.com/blog/debian-fullscreen-gui-kiosk/).
 
